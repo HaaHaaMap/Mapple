@@ -62,9 +62,9 @@ Mapple can be used for many different purposes. Here you can find examples from 
 
 ### Citizens' perspective
 
-- *"How long does it take to reach the nearest library from my home by walking?"*
-- *"How long does it take from my new appartment to reach my workplace or visit my grandma?"*
-- *"How many people live near my home?"*
+- "How long does it take to reach the nearest library from my home by walking?"
+- "How long does it take from my new appartment to reach my workplace or visit my grandma?"
+- "How many people live near my home?"
 
 Mapple can be used for finding out how much time does it take to reach important places of a citizen in his/her city.
 A citizen can also use the application to find out suitable places for a new place to live where the travel times to important
@@ -72,9 +72,9 @@ places are close enough.
 
 ### Entrepreneurs' perspective
 
-- *"How many people does my shop(s) reach within 30 minutes by car? Whatabout with public transportation or walking?"*
-- *"From which areas are people most likely coming to my service if they are using public transportation and are willing to use 15 minutes for travelling?"*
-- *"I am planning to open a new location for my store. Where should I locate it to? It should have enough people living within 20 minutes from my store."*
+- "How many people does my shop(s) reach within 30 minutes by car? Whatabout with public transportation or walking?"
+- "From which areas are people most likely coming to my service if they are using public transportation and are willing to use 15 minutes for travelling?"
+- "I am planning to open a new location for my store. Where should I locate it to? It should have enough people living within 20 minutes from my store."
 
 Mapple can be used for finding out easily how many people can reach within a specific amount of time a shop or service. It can be used to also explore
 potential areas or places for opening up a new business.
