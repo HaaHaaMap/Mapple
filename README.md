@@ -1,4 +1,4 @@
-![](img/Mapple_Promo.PNG)
+![](img/Mapple_Promo.png)
 
 # Mapple
 
