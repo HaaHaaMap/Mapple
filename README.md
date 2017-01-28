@@ -10,6 +10,16 @@ Mapple makes it easy to compare different travel modes to each other (public tra
 your computer for further inspection. Mapple is an ideal tool e.g. for a citizen trying to find a good location for a new home that is close enough to his/her
 important places, or for a entrepreneur who tries to find a good location for a new store with enough potential customers living close by.
 
+### Contents
+
+ - [How does it work?](#how-does-it-work)
+ - [For what can I use this for?](#for-what-can-i-use-this-for)
+ - [Data and licence](#data-and-licence)
+ - [Copyright](#copyright)
+ - [Technical documentation](#technical-documentation)
+ - [Developers](#developers)
+ - [Contact](#contact)
+
 ## How does it work?
 
 ### Running the analysis
