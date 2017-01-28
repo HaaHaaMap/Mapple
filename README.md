@@ -47,7 +47,8 @@ important places, or for a entrepreneur who tries to find a good location for a 
 
 ## For what can I use this for?
 
-Mapple can be used for many different purposes. Here you can find examples from the perspectives of a [citizen](), [entrepreneur]() and a [planner]().
+Mapple can be used for many different purposes. Here you can find examples from the perspectives of a [citizen](#citizens-perspective), 
+[entrepreneur](#entrepreneurs-perspective) and a [planner](#planners-perspective).
 
 ### Citizens' perspective
 
